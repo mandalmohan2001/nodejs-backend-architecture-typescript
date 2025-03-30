@@ -11,5 +11,9 @@
   },
   "dependencies": {
     "express": "^4.21.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mandalmohan2001/nodejs-backend-architecture-typescript.git"
   }
 }
