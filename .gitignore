@@ -4,6 +4,9 @@ node_modules
 # Ignore .env files
 .env
 
-# ignore logs
+# Ignore logs
 logs
 *.log
+
+# Igore build files
+build
