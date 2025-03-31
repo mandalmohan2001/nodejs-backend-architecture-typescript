@@ -10,3 +10,6 @@ logs
 
 # Igore build files
 build
+
+# Ignore keys and certificates
+*.pem
